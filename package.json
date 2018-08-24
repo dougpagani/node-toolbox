@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Personal utilities for interactively & conveniently troubleshooting code",
   "main": "toolbox.js",
-  "engines" : {
+  "engines": {
     "node": ">=10"
   },
   "scripts": {
@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/dougpagani/node-toolbox/issues"
   },
-  "homepage": "https://github.com/dougpagani/node-toolbox#readme"
+  "homepage": "https://github.com/dougpagani/node-toolbox#readme",
+  "dependencies": {
+    "mocha": "^5.2.0"
+  }
 }
