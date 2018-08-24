@@ -1,0 +1,26 @@
+{
+  "name": "toolbox",
+  "version": "1.0.0",
+  "description": "Personal utilities for interactively & conveniently troubleshooting code",
+  "main": "toolbox.js",
+  "engines" : {
+    "node": ">=10"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dougpagani/node-toolbox.git"
+  },
+  "keywords": [
+    "utilities",
+    "toolbox"
+  ],
+  "author": "Doug Pagani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dougpagani/node-toolbox/issues"
+  },
+  "homepage": "https://github.com/dougpagani/node-toolbox#readme"
+}
